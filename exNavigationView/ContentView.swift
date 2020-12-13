@@ -4,6 +4,8 @@
 //
 //  Created by Benedito Macedo on 12/12/20.
 //
+// https://www.hackingwithswift.com/articles/216/complete-guide-to-navigationview-in-swiftui
+//
 
 import SwiftUI
 
