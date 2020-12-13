@@ -14,6 +14,7 @@ struct ContentView: View {
         NavigationView {
             Text("Hello, world!")
                 .padding()
+                .navigationBarTitle("Navigation")
         }
     }
 }
